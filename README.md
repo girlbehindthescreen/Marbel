@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-    ![logo](https://github.com/girlbehindthescreen/marbel/assets/71432850/36d68f16-2a02-4b00-a306-8926573665ac)
+<img src="/path/to/logo.jpg">
     </a>
   </p>
   <p align="center">
