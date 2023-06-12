@@ -12,20 +12,23 @@
 
 This is a very simple e-commerce website built with Django.
 
-## Quick demo
+## Quick demo ✅
 https://youtu.be/lF8hJJUzUfg
 
-## Blog post
+## Blog post ✅
 https://medium.com/@igwuokuchristabel/the-marbel-32a271c294bd
 
-## Linkedin profile
+## Linkedin profile ✅
 https://www.linkedin.com/in/christabel-igwuoku-3939ba259/
 
 ---
 
 ## Project Summary
 
-The website displays products. Users can add and remove products to/from their cart while also specifying the quantity of each item. They can then enter their address and choose Stripe to handle the payment processing.
+The website displays products. Users can add and remove products to/from their cart🛒while also specifying the quantity of each item. They can then enter their address and choose Stripe to handle the payment processing✅.
+
+Marbel is shopping made easy😁😁.
+Why settle for less when you can have Marbel🤭
 
 ---
 
@@ -55,7 +58,7 @@ Then install the project dependencies with
 pip install -r requirements.txt
 ```
 
-Now you can run the project with this command
+Now you can run the project with this command✅
 
 ```
 python manage.py runserver
