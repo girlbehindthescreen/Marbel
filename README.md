@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-<img src="/path/to/logo.jpeg">
+<img src="logo.jpeg">
     </a>
   </p>
   <p align="center">
