@@ -4,11 +4,11 @@
     </a>
   </p>
   <p align="center">
-    Marbel portfolio project
+    Marbel 
   </p>
 </p>
 
-# Django E-commerce
+# MARBEL- an e-commerce website
 
 This is a very simple e-commerce website built with Django.
 
